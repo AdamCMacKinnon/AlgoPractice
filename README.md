@@ -1,2 +1,2 @@
-# AgoPractice
+# AlgoPractice
 Collection of practice algorithms
